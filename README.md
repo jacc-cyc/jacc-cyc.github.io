@@ -1,7 +1,7 @@
-#A Personal portfolio website hosted on GitHub Pages.
+<h1>A Personal portfolio website hosted on GitHub Pages.</h1>
 
 
-#Credits
+Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
