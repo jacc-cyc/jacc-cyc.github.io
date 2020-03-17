@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url(https://fonts.googleapis.com/css?family=Caveat|Patrick+Hand|Poiret+One|Shadows+Into+Light);
 
 
 html, body, div, span, applet, object,
@@ -67,6 +68,9 @@ input, select, textarea {
 	appearance: none;
 }
 
+.bad-script-font {
+	font-family: 'Caveat', cursive;
+}
 
 /* Basic */
 
