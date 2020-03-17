@@ -8,6 +8,9 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		
+	Designs:
+	        HTML5 UP (html5up.net)
 
 	Other:
 		jQuery (jquery.com)
